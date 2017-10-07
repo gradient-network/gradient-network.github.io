@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-We are a group of traders, programmers, computer scientists interested in applying  machine learning techniques to beat the market. Specifically, we share knowledge and tools on a variety of subjects:
+We are traders, programmers, scientists interested in applying machine learning techniques to beat the market.
+
+Topics include:
 
 * Derivatives trading
 
